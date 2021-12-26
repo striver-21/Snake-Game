@@ -1,4 +1,4 @@
-# expenses_planner
+# Snake Game
 
 A new Flutter project.
 
